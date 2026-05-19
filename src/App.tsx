@@ -29,6 +29,7 @@ import {
   Wrench,
   ThumbsUp
 } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 // Interfaces
 interface Review {
@@ -1206,6 +1207,7 @@ export default function App() {
         </div>
       </footer>
 
+      <Analytics />
     </div>
   );
 }
