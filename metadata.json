@@ -1,0 +1,6 @@
+{
+  "name": "Bandodkar & Co. | Real Estate Advisory",
+  "description": "Bespoke property consulting, investment advisory, and residential brokerage in Andheri East, Mumbai. Private client services curated by Ashish Bandodkar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
